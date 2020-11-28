@@ -78,7 +78,7 @@ RestClient error, Json Http Response Handler error and github committing from an
     limitations under the License.
     
     
-# Project 1 - Twitter Client (Part 2)
+# Project 1 - Twitter Client (Part 1)
 Time spent: 8 hours spent in total
 
 ## User Stories
